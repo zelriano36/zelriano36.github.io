@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://64.media.tumblr.com/1b52998cd4acc05aae65bfb15aac2293/531b611a0db66eb0-c6/s640x960/b39594668724b1566cc2cfacaef61cf6b86af70b.gif");
+    background-size: cover;
+}
+div.nav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 300px;
+    margin-left: 30px;
+}
+
+div.nav li a {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+
+}
+section.footer {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgray;
+    background: url('/Image/Background.png');
+    
+}
+div.contact {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    width: 200px;
+}
+div.contact h3 a{
+    
+    color: white;
+    text-decoration: none;
+}
